@@ -2,21 +2,21 @@
 - 😄 Pronouns: they/them
   
 - 👀 I’m interested in:
-  Video game design
-  Coding in general
-  Drawing
-  CAD (Computer Aided Design/Drafting)
+  Video game design, 
+  Coding in general, 
+  Drawing, 
+  CAD (Computer Aided Design/Drafting), 
   
 - 🌱 I’m currently learning
-  UI
-  Character customization
+  UI, 
+  Character customization, 
   
 - 💞️ I’m looking to collaborate on
-  Game projects
-  Anything that people would allow me to work on
+  Game projects, 
+  Anything that people would allow me to work on, 
   
 - 📫 How to reach me
-  @FakeKombu on Twitter/X
+  @FakeKombu on Twitter/X, 
   
 - ⚡ Fun fact: The animal in my PFP is a binturong (my favorite animal)!
 
