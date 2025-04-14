@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @EbonicCat
-- 😄 Pronouns: they/them
+-  Hi, I’m @EbonicCat
+-  Pronouns: they/them
   
-- 👀 I’m interested in:
+-  I’m interested in:
   Video game design, 
   Coding in general, 
   Drawing, 
   CAD (Computer Aided Design/Drafting), 
   
-- 🌱 I’m currently learning
-  UI, 
-  Character customization, 
+-  I’m currently working on a project for my game design class 
   
 - 💞️ I’m looking to collaborate on
   Game projects, 
