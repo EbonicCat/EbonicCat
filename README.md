@@ -9,14 +9,14 @@
   
 -  I’m currently working on a project for my game design class 
   
-- 💞️ I’m looking to collaborate on
-  Game projects, 
-  Anything that people would allow me to work on, 
+- I’m looking to collaborate on
+  Game projects, or
+  anything that people would allow me to work on! 💞️ 
   
-- 📫 How to reach me
-  @FakeKombu on Twitter/X, 
+- How to reach me 📫
+  @FakeKombu on Twitter/X,
   
-- ⚡ Fun fact: The animal in my PFP is a binturong (my favorite animal)!
+- ✨Fun fact✨: The animal in my PFP is a binturong (my favorite animal)!
 
 <!---
 EbonicCat/EbonicCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
